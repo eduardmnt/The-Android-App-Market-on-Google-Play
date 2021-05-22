@@ -11,3 +11,4 @@ Because it is pretty time consuming to render images for plotly graphs, i upload
 ![distribution](https://user-images.githubusercontent.com/65306351/119234232-783f3080-bb35-11eb-8146-daf16af8b83a.PNG)
 
 ## Number of downloads of paid apps vs free apps
+![boxplots](https://user-images.githubusercontent.com/65306351/119234280-b6d4eb00-bb35-11eb-87f8-f0387cc0eab6.PNG)
